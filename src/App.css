@@ -1,0 +1,115 @@
+.App {
+  text-align: center;
+}
+h1{
+  font-size: 21px;
+}
+
+.input-class-loc{
+    height: 40px;
+    width: 254px;
+    padding-left: 18px;
+    color:#000;
+    font-size:16px;
+}
+.input-class-skill{
+    height: 50px;
+    position: relative;
+    width: 254px;
+    padding-left: 18px;
+    left: -428px;
+    margin-left: 193%;
+    top: -56px;
+}
+.input-class-company{ 
+     height: 50px;
+    position: relative;
+    width: 254px;
+    padding-left: 17px;
+    left: -133px;
+    margin-left: 193%;
+    top: -111px;
+    }
+.drop-down{
+    width: 250px;
+    height: 40px;
+    color: #000;
+    padding-left: 11px;
+    font-size:16px;
+}
+.com-content{
+  text-align: left;
+    width: 58%;
+}
+.job-number{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+.searchButton{
+    background: #d3d3d3;
+    height: 43px;
+    width: 224px;
+    font-size: 24px;
+    color: #000;
+}
+.clearFilterButton{
+    margin-right: -65%;
+    background: #d3d3d3;
+    height: 43px;
+    width: 224px;
+    font-size: 24px;
+    color: #000;
+}
+.App-header {
+  background-color: #282c34;      
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    width: 100%;
+    height: 219px;
+    z-index: 999999;
+    padding-top: 20px;
+}
+.content-row{
+  padding-top:30px;
+}
+.sorting{
+  margin-left: 61%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+.content-div.col-xs-6 {
+  text-align: initial;
+  width: 48%;
+  border: 1px solid #000;
+  margin: 7px;
+  height: 300px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.search{
+  margin-bottom : 24px;
+}
+.search-con{
+  margin-top: 4%;
+  width: 59%;
+  color: #000;
+  font-size: 20px;
+}
+.search-content{
+      position: initial;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
